@@ -1,3 +1,4 @@
+
 # Credit Card Spend & Customer Behavior Analysis
 
 ## Overview
@@ -32,3 +33,4 @@ Credit card companies need to understand how customers use their cards, where th
 
 🟡 Environment setup and repository structure completed.  
 🔜 Data modeling and SQL analysis will be added next.
+
